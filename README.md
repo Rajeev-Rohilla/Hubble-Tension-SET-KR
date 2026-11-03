@@ -1,7 +1,7 @@
 
 # Space Expansion Theory (SET) | K_R = 64.67 km/s/Mpc
 
-**Rajeev Rohilla, Siwani, Haryana, India**
+**Rajeev Rohilla, Haryana, India**
 **ORCID: 0009-0003-1890-3312**
 **UNDARK 2026: Illuminating Cosmic Discord (CERN) | Reg #132**
 **DOI: 10.5281/zenodo.23731385**
