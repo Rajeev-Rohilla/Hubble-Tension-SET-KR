@@ -1,5 +1,4 @@
-
-[DOI](https://zenodo.org/badge/1444544785.svg)](
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23925103.svg)](https://doi.org/10.5281/zenodo.23925103)
 
 # Space Expansion Theory (SET) | K_R = 64.67 km/s/Mpc
 
